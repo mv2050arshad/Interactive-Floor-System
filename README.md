@@ -1,7 +1,6 @@
 # Interactive-Floor-System
 
-![Logo or Banner](path/to/logo-or-banner.png)
-
+ 
 ## 🚀 Overview
 
 The **Interactive Floor System** is an application that uses motion sensors and real-time projection to create engaging and immersive experiences. It transforms any surface into an interactive display, enabling multi-person detection, pose tracking, and dynamic effects for events, exhibitions, and installations.
@@ -20,11 +19,21 @@ The **Interactive Floor System** is an application that uses motion sensors and 
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-### Example Interface:
-![Screenshot](path/to/screenshot.png)
+### Example Interface: 
 
+[![Watch the video](https://img.youtube.com/vi/oBLYxUPn9_A/0.jpg)](https://youtu.be/oBLYxUPn9_A)
+[![Watch the video](https://img.youtube.com/vi/oHM-XEWyjvM/0.jpg)](https://youtu.be/oHM-XEWyjvM)
+[![Watch the video](https://img.youtube.com/vi/TrdI2hEH7as/0.jpg)](https://youtu.be/TrdI2hEH7as)
+[![Watch the video](https://img.youtube.com/vi/0ql_RX049_0/0.jpg)](https://youtu.be/0ql_RX049_0)
+[![Watch the video](https://img.youtube.com/vi/scgylabhQLw/0.jpg)](https://youtu.be/scgylabhQLw)
+[![Watch the video](https://img.youtube.com/vi/l7f9qBh6QYM/0.jpg)](https://youtu.be/l7f9qBh6QYM)
+[![Watch the video](https://img.youtube.com/vi/lgKLyAPM58g/0.jpg)](https://youtu.be/lgKLyAPM58g)
+[![Watch the video](https://img.youtube.com/vi/H4jbktq_cjA/0.jpg)](https://youtu.be/H4jbktq_cjA)
+[![Watch the video](https://img.youtube.com/vi/4QLV7pq5kzM/0.jpg)](https://youtu.be/4QLV7pq5kzM)
+[![Watch the video](https://img.youtube.com/vi/TzId1UOjb0Q/0.jpg)](https://youtu.be/TzId1UOjb0Q)
+ 
 ---
 
 ## 🔗 Links
